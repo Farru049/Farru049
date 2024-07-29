@@ -1,7 +1,6 @@
 # Hi there, I'm Mohammad Farhaan Ali! 👋
 
 **Email:** [alifarhaan655@gmail.com](mailto:alifarhaan655@gmail.com)  
-**Mobile:** +91-6281217716  
 **B.E in AI and Data Science, Chaitanya Bharathi Institute of Technology**  
 [LinkedIn](https://www.linkedin.com/in/farhaan-ali-753581241/) | [Portfolio](https://ali-1234.netlify.app/)
 
