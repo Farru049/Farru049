@@ -8,7 +8,7 @@ I'm a passionate AI and Data Science undergraduate with hands-on experience in m
 
 ## 🔧 Skills
 - **Programming:** Java ☕, Python 🐍, SQL 🗃️
-- **Web Development:** Django 🌐, Express.js 🚀, HTML & CSS 🎨, Bootstrap 📚
+- **Web Development:** Django 🌐, HTML & CSS 🎨, Bootstrap 📚,Node.js
 - **Databases:** MongoDB 🍃, DBMS 🗄️
 - **Tools:** VS Code 🖥️, GitHub 🐱, VMware 🛠️, Kali Linux 🐧, Burp Suite 🔍, Nmap 📡
 - **Soft Skills:** Problem Solving 🧠, Communication 🗣️, Persistence 💪
