@@ -1,4 +1,4 @@
-### # Hi there, I'm Mohammad Farhaan Ali! 👋
+# Hi there, I'm Mohammad Farhaan Ali! 👋
 
 **B.E in AI and Data Science, Chaitanya Bharathi Institute of Technology**  
 [**Portfolio**](https://ali-1234.netlify.app/) • [**GitHub**](https://github.com/Farru049) • [**LinkedIn**](https://www.linkedin.com/in/farhaan-ali-753581241/)
@@ -12,15 +12,32 @@ I'm a passionate **AI and Data Science undergraduate** with hands-on experience 
 
 ## 🔧 Skills
 - **Programming Languages:**  
-  Java ☕ | Python 🐍 | SQL 🗃️  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
 - **Web Development:**  
-  Django 🌐 | Node.js ⚙️ | HTML5 & CSS3 🎨 | Bootstrap 📚  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
 - **Databases:**  
-  MongoDB 🍃 | DBMS 🗄️ | SQL  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![DBMS](https://img.shields.io/badge/-DBMS-007396?style=for-the-badge&logo=mysql&logoColor=white)  
+
 - **Cybersecurity Tools:**  
-  Kali Linux 🐧 | Burp Suite 🔍 | Nmap 📡 | VMware 🛠️  
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
+  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)  
+  ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)  
+  ![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+
 - **Development Tools:**  
-  VS Code 🖥️ | GitHub 🐱 | Git  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
 - **Soft Skills:**  
   Problem Solving 🧠 | Communication 🗣️ | Teamwork 🤝 | Persistence 💪  
 
@@ -67,4 +84,4 @@ I'm a passionate **AI and Data Science undergraduate** with hands-on experience 
 
 ## 📫 Contact Me  
 Feel free to reach out to me!  
-**Email:** [alifarhaan655@gmail.com](mailto:alifarhaan655@gmail.com)  
+**Email:** [alifarhaan655@gmail.com](mailto:alifarhaan655@gmail.com)
