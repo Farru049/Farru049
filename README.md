@@ -1,6 +1,6 @@
 # Mohammad Farhaan Ali
 
-> Aspiring AI & Data Science Professional | Machine Learning Enthusiast | Cybersecurity Aficionado
+> Aspiring AI & Data Science Freak | Machine Learning Enthusiast | Cybersecurity Aficionado
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ali-1234.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farru049)
